@@ -4,7 +4,28 @@ The Diary of Six Years in Siberian Captivity is an authentic confession of Blaž
 <details>
   <summary>Mind Map</summary>
   
-  ![Mind Map](Book (diary)@2x.png)
+  ![Mind Map](mindmap.png)
   </details>
+  
+### Voice and tone
+- Voice: Informal, profesional, educated
+- Tone: Formal, historical, authentic
 
-
+### Outline
+- Authentic diary
+- The village from which Blažej Homola will buy some books.
+- Analysis of the Rajhradice village
+- Creating advertismet for the book in this village
+- Research - find simmilar and rival products
+- Web design for the book
+- Interview with Petr Bjacek from Czech Historical Military Institute
+- Communication with historical museums and institutes 
+- E-book
+### Keywords
+- Book design
+- History 
+- Visual style
+- Typography 
+- Marketing Comunication
+- E-book
+- Printed publication
