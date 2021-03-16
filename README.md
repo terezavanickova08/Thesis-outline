@@ -13,7 +13,7 @@ The Diary of Six Years in Siberian Captivity is an authentic confession of Blaž
 
 ### Outline
 - Authentic diary
-- The village from which Blažej Homola will buy some books.
+- Comunication with born village of Blažej Homola - they will buy some books
 - Analysis of the Rajhradice village
 - Creating advertismet for the book in this village
 - Research - find simmilar and rival products
